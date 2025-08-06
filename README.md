@@ -24,8 +24,8 @@ Here's a breakdown of my key projects.  Each entry includes a link to the GitHub
 ### 2. Little Website
 
 * **Repository:** [https://github.com/kuarahy/littlewebsite](https://github.com/kuarahy/littlewebsite)
-* **Description:**  A simple, responsive website built with [Technologies - e.g., HTML, CSS, JavaScript]. Demonstrates proficiency in front-end development principles and creating accessible web experiences. [Mention specific challenges overcome or features implemented, e.g., "Implemented a responsive design to ensure optimal viewing across various devices," or "Utilized CSS Grid for flexible layout."]
-* **Key Skills Demonstrated:** HTML, CSS, JavaScript, Responsive Design
+* **Description:**  A simple, responsive website built with HTML, CSS, JavaScript. Demonstrates proficiency in front-end development principles and creating accessible web experiences. 
+* **Key Skills Demonstrated:** JavaScript, HTML, CSS, Responsive Design
 
 ### 3. Kuarahy Streaming
 
