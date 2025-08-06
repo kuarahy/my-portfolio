@@ -15,43 +15,48 @@ A curated collection of projects showcasing my skills and experience in software
 
 Here's a breakdown of my key projects.  Each entry includes a link to the GitHub repository and a brief description highlighting the project's purpose and the technologies used.
 
-### 1. Link Shortener
+### Link Shortener (Java)
 
 * **Repository:** [Link Shortener](https://github.com/kuarahy/linkshortener)
 * **Description:** A link shortening service allowing users to create short, trackable URLs. It was created for a code challenge.
 * **Key Skills Demonstrated:** Java, Maven, Spring
 
-### 2. Little Website
+### Pegasus Stream Website (React)
+* **Repository:** [Pegasus Stream](https://github.com/kuarahy/Pegasus)
+* **Description:** A link shortening service allowing users to create short, trackable URLs. It was created for a code challenge.
+* **Key Skills Demonstrated:** React, Javascript, Node, deployed using Vercel
+
+### Little Website (Javascript)
 
 * **Repository:** [https://github.com/kuarahy/littlewebsite](https://github.com/kuarahy/littlewebsite)
 * **Description:**  A simple, responsive website built with HTML, CSS, JavaScript. Demonstrates proficiency in front-end development principles and creating accessible web experiences. 
 * **Key Skills Demonstrated:** JavaScript, HTML, CSS, Responsive Design
 
-### 3. Kuarahy Streaming
+### Kuarahy Streaming (React)
 
 * **Repository:** [Kuarahy Streaming](https://github.com/kuarahy/kuarahy-streaming)
 * **Description:** A local notification system for streamers
 * **Key Skills Demonstrated:** React, Go Lang, API
 
-### 4. Marvel United
+### Marvel United (Java)
 
 * **Repository:** [Marvel United](https://github.com/kuarahy/MarvelUnited)
 * **Description:** A project for Marvel United players to build games 
 * **Key Skills Demonstrated:** Java (now), GoLang (backend) or Node (backend) soon, and React (frontend)
 
-### 5. LocalBrowserCountDownOBS
+### LocalBrowserCountDownOBS (Javascript)
 
 * **Repository:** [Local BrowserCountDown OBS](https://github.com/kuarahy/LocalBrowserCountDownOBS)
 * **Description:** A simple countdown that can be locally used for OBS
 * **Key Skills Demonstrated:** Javascript
 
-### 6. Planner
+### Planner (Javascript)
 
 * **Repository:** [Planner](https://github.com/kuarahy/planner)
 * **Description:** Originally created for the Loyola University of Chicago social media envisioned by the Department of Psychology. It was designed be dataless due to concerns with students data privacy. Thus the data is only stored in the local browser.
 * **Key Skills Demonstrated:** Javascript
 
-### 7. Accordeon Website
+### Accordeon Website (Javascript)
 
 * **Repository:** [Accordeon Website](https://github.com/kuarahy/donatelucas.com)
 * **Description:** A Javascript skeleton with cute colors and an accordeon for categories
