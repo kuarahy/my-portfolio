@@ -64,7 +64,7 @@ Here's a breakdown of my key projects.  Each entry includes a link to the GitHub
 
 ## Contact
 
-lucasperezus@gmail.com
+* lucasperezus@gmail.com
 * **LinkedIn:** [https://www.linkedin.com/in/lucasperezus/](https://www.linkedin.com/in/lucasperezus/)
 
 
