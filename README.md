@@ -1,6 +1,6 @@
 # My Portfolio - Lucas Perez
 
-A curated collection of projects showcasing my skills and experience in software development.  I'm passionate about building efficient, scalable, and user-friendly solutions.  This README provides an overview of my key projects and the technologies I'm proficient in.
+A curated collection of projects showcasing my skills and experience in software development.  I'm passionate about building efficient, scalable, and user-friendly solutions.  This README provides an overview of my key projects and the technologies I'm proficient in. Bare in mind that my main code is all proprietary and although I use git for work, I don't use Github, so the repositories cannot be shared.
 
 ## Summary of Skills
 
