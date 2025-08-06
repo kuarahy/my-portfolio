@@ -5,9 +5,9 @@ A curated collection of projects showcasing my skills and experience in software
 ## Summary of Skills
 
 * **Languages:** Java, C#, Python, JavaScript, Go Lang
-* **Frameworks/Libraries:** React, Node.js, Springboot
-* **Tools:** Git, Docker, AWS, Azure, Docker
-* **Databases:**  Oracle
+* **Frameworks/Libraries:** React, Node.js, Springboot, Maven, Gradle
+* **Tools:** Git, Docker, AWS, Azure, Docker, Kubernetes
+* **Databases:**  Mostly SQL databases with minimum usage for non-SQL databases
 * **Methodologies:** Agile, Scrum
 * **Code Architecture:** NASA standards and SOLID architecture
 
